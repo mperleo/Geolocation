@@ -22,7 +22,7 @@
 
     $verLogs = false;
 
-    $token = "AIzaSyDeLpfUD7o4D9H_ylTM4Q0-848K6L2ubCc";
+    $token = "Tu token";
 
     if(isset($_GET["direccion"]) && !empty($_GET["direccion"])){
 
